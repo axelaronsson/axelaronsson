@@ -6,7 +6,10 @@
 
 I've always been into creating stuff. I'm amazed by the process of going from nothing, to SOMETHING! Something that wasn't there before. Something new! Whether it be coding or making music, the creative journey gives me a rush everytime. I'm happy to be working in this field where I can express my creativity, and at the same time help solving problems.
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 
