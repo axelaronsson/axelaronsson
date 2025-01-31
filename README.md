@@ -24,10 +24,10 @@ I've always been into creating stuff. I'm amazed by the process of going from no
 <br>
 
 ### Some of my work
-<ul>
-<li><a href="https://www.smideochform.se/" rel="noreferrer">Smide Och Form</a></li>
-<li><a href="https://rytmus.se/" rel="noreferrer">Rytmus</a></li>
-<li><a href="https://thegameassembly.com/" rel="noreferrer">The Game Assembly</a></li>
+<ul style="list-style:none">
+  <li ><a href="https://www.smideochform.se/" rel="noreferrer">Smide Och Form</a></li>
+  <li><a href="https://rytmus.se/" rel="noreferrer">Rytmus</a></li>
+  <li><a href="https://thegameassembly.com/" rel="noreferrer">The Game Assembly</a></li>
 </ul>
 
 
