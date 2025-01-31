@@ -24,11 +24,12 @@ I've always been into creating stuff. I'm amazed by the process of going from no
 <br>
 
 ### Some of my work
-<ul style="list-style:none">
+<ul list-style:none>
   <li ><a href="https://www.smideochform.se/" rel="noreferrer">Smide Och Form</a></li>
   <li><a href="https://rytmus.se/" rel="noreferrer">Rytmus</a></li>
   <li><a href="https://thegameassembly.com/" rel="noreferrer">The Game Assembly</a></li>
 </ul>
+
 
 
 ### 🧰 Languages and Tools 
@@ -41,6 +42,7 @@ I've always been into creating stuff. I'm amazed by the process of going from no
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 <br>
 
