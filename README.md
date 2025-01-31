@@ -24,9 +24,11 @@ I've always been into creating stuff. I'm amazed by the process of going from no
 <br>
 
 ### Some of my work
+<ul>
 <a href="https://www.smideochform.se/" rel="noreferrer">Smide Och Form</a>
 <a href="https://rytmus.se/" rel="noreferrer">Rytmus</a>
 <a href="https://thegameassembly.com/" rel="noreferrer">The Game Assembly</a>
+</ul>
 
 
 ### 🧰 Languages and Tools 
