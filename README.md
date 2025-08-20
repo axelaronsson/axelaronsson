@@ -19,7 +19,7 @@ I've always been into creating stuff. I'm amazed by the process of going from no
 -->
 # Axel Aronsson
 
-**`Web Developer/Musician`**
+**`Web Developer`**
 
 
 I’m a developer with a curious mindset who is always happy to jump on any logical challenge and find great inspiration in bringing ideas into pieces of both technical and visual design.
