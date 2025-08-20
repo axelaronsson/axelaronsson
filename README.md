@@ -14,12 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I've always been into creating stuff. I'm amazed by the process of going from nothing, to SOMETHING! Something that wasn't there before. Something new! Whether it be coding or making music, the creative journey gives me a rush everytime. I'm happy to be working in this field where I can express my creativity, and at the same time help solving problems.
 -->
 # Axel Aronsson
 
 **`Web Developer/Musician`**
 
-I've always been into creating stuff. I'm amazed by the process of going from nothing, to SOMETHING! Something that wasn't there before. Something new! Whether it be coding or making music, the creative journey gives me a rush everytime. I'm happy to be working in this field where I can express my creativity, and at the same time help solving problems.
+
+I’m a developer with a curious mindset who is always happy to jump on any logical challenge and find great inspiration in bringing ideas into pieces of both technical and visual design.
+While I have a great interest in back-end development, I’m my most creative when working with front-end.
 
 <br>
 
