@@ -31,8 +31,8 @@ While I have a great interest in back-end development, I’m my most creative wh
 <ul list-style:none>
   <li><a href="https://rytmus.se/" rel="noreferrer">Rytmus</a></li>
   <li ><a href="https://gymnasiekoll.se/" rel="noreferrer">Gymnasiekoll</a></li>
-  <li ><a href="https://www.smideochform.se/" rel="noreferrer">Smide Och Form</a></li>
   <li><a href="https://thegameassembly.com/" rel="noreferrer">The Game Assembly</a></li>
+  <li ><a href="https://www.smideochform.se/" rel="noreferrer">Smide Och Form</a></li>
 </ul>
 
 <br>
